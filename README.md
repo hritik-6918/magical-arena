@@ -90,11 +90,7 @@ The process repeats until one player's health reaches zero.
 
 4. **Run tests**: To ensure everything is working correctly, run the unit tests:
 ```bash
-![Screenshot (493)](https://github.com/user-attachments/assets/44b151f8-d1d2-4abd-b8b2-14945e291ea1)
-![Screenshot (494)](https://github.com/user-attachments/assets/a9543c6c-9a80-4856-afcd-9d9a0789b7cf)
-![Screenshot (493)](https://github.com/user-attachments/assets/9332dbfc-6e8e-40bb-b79f-8c3beb1cf577)
-![Screenshot (494)](https://github.com/user-attachments/assets/a73626ed-5489-42c4-ac89-47c7dbf127fb)
-![Screenshot (493)](https://github.com/user-attachments/assets/e5f4864f-93be-4fcf-a824-001309460322)
+npm test
 ```
 
 # How It Works
@@ -166,3 +162,9 @@ This project is designed with the following principles in mind:
 - Save battle history to track player performance over time.
 
 Feel free to contribute to the project or report any issues you encounter! 
+
+# Screenshot
+
+![Screenshot (493)](https://github.com/user-attachments/assets/8f895576-21c2-413f-89ad-895b43b4f44e)
+
+![Screenshot (494)](https://github.com/user-attachments/assets/496458de-0636-4683-bb5b-0182a75da680)
