@@ -1,0 +1,17 @@
+{
+  "name": "magical-arena",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "jest": "^29.7.0",
+    "mocha": "^10.8.2"
+  }
+}
